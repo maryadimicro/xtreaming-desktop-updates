@@ -1,11 +1,13 @@
 {
   "version": "3.0.1",
-  "url": "https://github.com/maryadimicro/xtreaming-desktop-updates/releases/tag/Xv.3.0.1",
-  "exe_url": "https://github.com/maryadimicro/xtreaming-desktop-updates/releases/download/v3.0.1/Xtreaming.Setup.3.0.1.exe",
+  "url": "https://github.com/maryadimicro/xtreaming-desktop-updates/releases",
+  "exe_url": "https://github.com/maryadimicro/xtreaming-desktop-updates/releases/download/Xv3.0.1/Xtreaming.Setup.v3.0.1.exe",
   "whats_new": [
-    "watch history: auto-save saat Watch Now, tampil di Library > History",
-    "history: tombol X per-item untuk hapus riwayat tontonan",
-    "history: klik row untuk navigasi ke detail film",
-    "watch now: poster path disertakan untuk tampilan history"
+    "Migrasi backend dari Supabase ke server sendiri (Express + MySQL) dengan login OTP email",
+    "Menghapus fitur nonton bareng (Watch Rooms), chat 1-on-1, dan panel Friends/Online Users",
+    "Menghapus Creator Panel beserta seluruh fitur sosial yang terkait",
+    "Aktivasi lisensi kini terhubung ke License Manager (Laravel) sebagai sumber kebenaran",
+    "Download kini menggunakan streaming HTTP langsung (lebih stabil, tanpa CLI Python)",
+    "Pembersihan menyeluruh kode mati dan dependency yang tidak terpakai"
   ]
 }

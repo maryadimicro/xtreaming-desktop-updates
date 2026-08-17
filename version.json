@@ -1,0 +1,11 @@
+{
+  "version": "3.0.1",
+  "url": "https://github.com/maryadimicro/xtreaming-desktop-updates/releases/tag/Xv.3.0.1",
+  "exe_url": "https://github.com/maryadimicro/xtreaming-desktop-updates/releases/download/v3.0.1/Xtreaming.Setup.3.0.1.exe",
+  "whats_new": [
+    "watch history: auto-save saat Watch Now, tampil di Library > History",
+    "history: tombol X per-item untuk hapus riwayat tontonan",
+    "history: klik row untuk navigasi ke detail film",
+    "watch now: poster path disertakan untuk tampilan history"
+  ]
+}
